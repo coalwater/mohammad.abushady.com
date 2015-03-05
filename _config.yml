@@ -1,0 +1,12 @@
+# Site settings
+title:            Mohammad AbuShady
+email:            ''
+
+url:              "http://mohammad.abushady.com"
+baseurl:          ''
+description: >
+  This is going to be my portfolio website, this is a place holder description
+
+github_username:  coalwater
+
+markdown:         kramdown
